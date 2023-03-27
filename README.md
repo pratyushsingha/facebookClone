@@ -1,7 +1,7 @@
 
 # Facebook Clone
 
-A frontend full responsive Microsoft Clone with tailwind css
+A frontend facebook Clone with tailwind css
 
 
 ## Demo
